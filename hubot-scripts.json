@@ -1,5 +1,4 @@
 [
-"redis-brain.coffee",
 "shipit.coffee",
 "rajinikanth.coffee",
 "cash.coffee",
@@ -7,5 +6,5 @@
 "cowsay.coffee",
 "history.coffee",
 "decide.coffee",
-"hackernews.coffee"
+"logbot.coffee"
 ]
