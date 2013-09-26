@@ -1,8 +1,11 @@
-["redis-brain.coffee", 
-"shipit.coffee", 
-"rajinikanth.coffee", 
-"cash.coffee", 
+[
+"redis-brain.coffee",
+"shipit.coffee",
+"rajinikanth.coffee",
+"cash.coffee",
 "birthday.coffee",
 "cowsay.coffee",
 "history.coffee",
-"decide.coffee"]
+"decide.coffee",
+"github-commits.coffee",
+]
