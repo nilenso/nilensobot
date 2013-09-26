@@ -1,1 +1,7 @@
-["redis-brain.coffee", "shipit.coffee", "rajinikanth.coffee"]
+["redis-brain.coffee", 
+"shipit.coffee", 
+"rajinikanth.coffee", 
+"cash.coffee", 
+"birthday.coffee",
+"cowsay.coffee",
+"decide.coffee"]
