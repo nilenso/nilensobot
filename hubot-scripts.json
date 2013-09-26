@@ -7,6 +7,5 @@
 "cowsay.coffee",
 "history.coffee",
 "decide.coffee",
-"github-commits.coffee",
 "hackernews.coffee"
 ]
