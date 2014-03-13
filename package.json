@@ -22,7 +22,8 @@
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "cheerio": "0.7.0",
-    "hubot-slack": ">= 2.0.2"
+    "hubot-slack": ">= 2.0.2",
+    "twit": "1.1.8"
   },
   "engines": {
     "node": ">= 0.8.x",
