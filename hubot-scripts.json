@@ -7,6 +7,5 @@
 "history.coffee",
 "decide.coffee",
 "meme_captain.coffee",
-"tweeter.coffee",
-"meme_generator.coffee"
+"tweeter.coffee"
 ]
