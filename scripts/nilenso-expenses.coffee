@@ -23,7 +23,7 @@ module.exports = (robot) ->
       to: "expenses@nilenso.com"
       from: "nilensobot@nilenso.com"
       subject: type
-      text: "Amount: #{amount}\nDescription: #{description}"
+      text: "Amount: #{amount}\nDescription: #{description}\nUser: #{msg.message.user.name}"
     , (err, json) ->
       if err
         robot.logger.error(err)
